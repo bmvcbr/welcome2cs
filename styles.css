@@ -1,5 +1,10 @@
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
 .title {
     text-align: center;
+    color: #003976;
 }
 
 .description {
@@ -13,7 +18,7 @@
     padding: 0;
     overflow: hidden;
     background-color: #003976;
-    width: 410px;
+    width: 435px;
     align-content: center;
 }
 
